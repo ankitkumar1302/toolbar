@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
 
                 case 
                         R.id.webWhatsApp:
-                    Toast.makeText(this, "WebWhatsapp", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(this, "Webwhatsapp", Toast.LENGTH_SHORT).show();
                 break;
 
             default:
